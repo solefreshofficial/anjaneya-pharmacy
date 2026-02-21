@@ -6,7 +6,6 @@ import { Menu, X, Phone, Clock, MapPin, Cross } from "lucide-react";
 const navLinks = [
   { to: "/", label: "Home" },
   { to: "/about", label: "About" },
-  { to: "/stocks", label: "Stocks" },
   { to: "/order", label: "Order Medicines" },
   { to: "/contact", label: "Contact" },
 ];
